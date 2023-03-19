@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsApp2", "WinFormsApp2\WinFormsApp2.csproj", "{F53F3552-784A-42CE-9E12-315615D4B540}"
+EndProject
+Project("{840C416C-B8F3-42BC-B0DD-F6BB14C9F8CB}") = "Cafe", "C:\Users\DUY\Desktop\Cafe\Cafe.aiproj", "{E87A1AA8-64F4-4249-A6A7-C4EE30F9CD57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		All|Any CPU = All|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F53F3552-784A-42CE-9E12-315615D4B540}.All|Any CPU.ActiveCfg = Debug|Any CPU
+		{F53F3552-784A-42CE-9E12-315615D4B540}.All|Any CPU.Build.0 = Debug|Any CPU
+		{F53F3552-784A-42CE-9E12-315615D4B540}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{F53F3552-784A-42CE-9E12-315615D4B540}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{F53F3552-784A-42CE-9E12-315615D4B540}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F53F3552-784A-42CE-9E12-315615D4B540}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E87A1AA8-64F4-4249-A6A7-C4EE30F9CD57}.All|Any CPU.ActiveCfg = DefaultBuild
+		{E87A1AA8-64F4-4249-A6A7-C4EE30F9CD57}.All|Any CPU.Build.0 = DefaultBuild
+		{E87A1AA8-64F4-4249-A6A7-C4EE30F9CD57}.Debug|Any CPU.ActiveCfg = DefaultBuild
+		{E87A1AA8-64F4-4249-A6A7-C4EE30F9CD57}.Debug|Any CPU.Build.0 = DefaultBuild
+		{E87A1AA8-64F4-4249-A6A7-C4EE30F9CD57}.Release|Any CPU.ActiveCfg = DefaultBuild
+		{E87A1AA8-64F4-4249-A6A7-C4EE30F9CD57}.Release|Any CPU.Build.0 = DefaultBuild
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {835CB013-E9AC-478F-AA11-A089A05971FF}
+	EndGlobalSection
+EndGlobal

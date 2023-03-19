@@ -1,0 +1,1 @@
+sqlcmd -E -S .\LAPTOP-KP1V6T6B -i script.sql
